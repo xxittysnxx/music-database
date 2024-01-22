@@ -9,7 +9,7 @@ Database initialization:
 python3 init_db.py
 ```
 
-Run the backend server : (run on localhost:5000)
+Run the backend server: (run on localhost:5000)
 
 ```
 python3 app.py
