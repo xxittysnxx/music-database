@@ -15,7 +15,7 @@ Run the backend server : (run on localhost:5000)
 python3 app.py
 ```
 
-Interface：
+Interface:
 
 * User : open ```./frontend/login.html```
 
