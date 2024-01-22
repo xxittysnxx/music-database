@@ -1,4 +1,5 @@
-# Music Lookup and Follow System
+# Music database system
+This is a National Chengchi Univercity Database Management Systems Project using SQLite3 and Flask.
 
 ## Running the app
 
